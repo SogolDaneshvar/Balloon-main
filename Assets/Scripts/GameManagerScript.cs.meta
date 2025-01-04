@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: a4e0612dd10860c48a9f7524177b1b36
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - StartTransitionPrefab: {fileID: 7829964214908258829, guid: 96f573a2ab867ce4fa4275fffc1f740a, type: 3}
+  - EndTransitionPrefab: {fileID: 1378944758116294159, guid: 79fa6f03833d7c846ac1acca9130bf9d, type: 3}
+  - StartingTransitionAnimation: {instanceID: 0}
+  - EndingTransitionAnimation: {instanceID: 0}
+  - gameOverCanvas: {instanceID: 0}
+  - CoinScoreText: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

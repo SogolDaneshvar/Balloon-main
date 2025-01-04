@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 8cee1d0a2d40e2540b7c1eadca89e251
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - scoreManager: {fileID: 2419031042980910274, guid: 0a83d74d1ce07624789fa99c625b17a8, type: 3}
+  - BalloonWithHolePrefab: {fileID: 6832341610050375415, guid: 79aae0423b35b904fba25191dbe6bb02, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
